@@ -4,7 +4,6 @@ HELP.md
 !**/src/test/**/target/
 
 /target/*
-!target/email-writer-sb-0.0.1-SNAPSHOT.jar
 
 ### STS ###
 .apt_generated
