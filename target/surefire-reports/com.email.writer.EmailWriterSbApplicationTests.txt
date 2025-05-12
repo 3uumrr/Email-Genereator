@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.email.writer.EmailWriterSbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.366 s -- in com.email.writer.EmailWriterSbApplicationTests
